@@ -1,3 +1,5 @@
+[![Remix on Glitch](https://cdn.glitch.me/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button-v2.svg)](https://glitch.com/edit/#!/import/github/pbaranski/strapi-heroku-template/examples/getstarted)
+
 # getstarted
 
 This is an example app you can run to test your changes quickly.
